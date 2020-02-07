@@ -1,4 +1,5 @@
-## Allison's Portfolio
+## Welcome to Allison's Portfolio
 
-##### An inquiry into what makes up the "Indie Pop" genre on Spotify.
+#### This is Allison's portfolio project for Computational Musicology
+
 
