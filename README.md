@@ -12,4 +12,16 @@ I first decided to analyze the mean values of the various categories provided by
 
 This primary analysis suggests that the Indie Pop genre consists of moderatly "danceable" (dancability: m = 0.559, sd = 0.104) and postive songs (valence: m = 0.515, sd = 0.192). The data also suggests low ratings of liveness (m = 0.210, sd = 0.157), instrumentalness (m = 0.0162, sd = 0.0988), and acousticness (m = 0.163, sd = 0.243).
 
+| Attributes | Mean | Standard Deviation |
+| :--------- | :--: | :----------------: |
+| `Danceability` | 0.56 | 0.10 |
+| `Energy` | 0.67 | 0.18 |
+| `Loudness` | -6.11 | 2.17 |
+| `Speechiness` |  | 0.05 |
+| `Acousticness` | 0.16 | 0.24 |
+| `Instrumentalness` | 0.02 | 0.10 |
+| `Liveness` | 0.21 | 0.16 |
+| `Valence` | 0.52 | 0.19 |
+| `Tempo` | 119 | 28.1 |
+
 Using this data as a baseline, I plan to analyze and compare the data from each separate artist (to each other as well as the overall averages) and discover which aspects of these seemingly *very* different artists' music lend themselves to be grouped into together in a single genre.
