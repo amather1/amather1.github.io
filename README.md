@@ -7,10 +7,10 @@
 I have chosen to focus on the discography of one of my personal favorite bands, Twenty One Pilots. I am interested in Twenty One Pilots' albums specfically as they have been deemed 'concept albums' with distinct, yet somewhat interconnected, storylines and themes. With this in mind, I would be interested in investigating whether or not these themes are solely recognizable in the media content associated with the albums *(such as music videos and linked websites)*, or in the attributes and structures of the albums themselves.
 I also chose to focus on the music of Twenty One Pilots as the band has been making music for over a decade and I am intrigued by the potential evolution of the band's albums throughout their career. 
 
-#### **How have certain aspects of Twenty One Pilots' music changed between albums?**
+
+#### **Have certain aspects of Twenty One Pilots' music changed between albums?**
 
 Twenty One Pilots' discography *(that which is available on Spotify)* is made up of four albums, 54 songs, which have been released between 2009 and 2018. I chose to first analyze the mean values, along with their corresponding standard deviations, of selected categories provided by Spotify's data and compare them between the four albums. I organized these data points into a table *(shown below)*.
-
 
 | Attributes | | Twenty One Pilots (2009) | Vessel (2013) | Blurryface (2015) | Trench (2018) |
 | :--------- |:-- | :----------------------: | :-----------: | :---------------: | :-----------: |
@@ -26,6 +26,14 @@ Twenty One Pilots' discography *(that which is available on Spotify)* is made up
 |  | `Standard Deviation` | 0.17 | 0.20 | 0.17 | 0.18 |
 | **Tempo** | `Mean` | 123 | 126 | 122 | 115 |
 |  | `Standard Deviation` | 23.5 | 24.9 | 28.0 | 23.6 |
+
+Upon first glance, it seems as though the band has created fairly consistent content with each of their four albums. If anything, they may have exhibited a kind of curve in regards to some aspects, such as *loudness* and *valence*, in which they had deviated from their original style but have since tried to return to it. 
+
+
+#### **Is there a pattern to the structure of Twenty One Pilots' albums?**
+Through a comparative analysis of the four albums, I plan to study the potential method by which the band pieces together their albums. Since Twenty One Pilots has been known to make concept albums with distinct storylines, I am interested to know if they tend to use a similar pattern of song styles/vibes between their albums in order to emulate the arc of a storyline.
+
+
 
 ![valence   track](https://user-images.githubusercontent.com/60647028/74744604-d4484480-5262-11ea-8ba8-422e12a79706.png)
 
