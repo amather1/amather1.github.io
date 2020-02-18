@@ -17,18 +17,18 @@ This primary analysis suggests that the Indie Pop genre consists of moderatly "d
 
 | Attributes | | Twenty One Pilots (2009) | Vessel (2013) | Blurryface (2015) | Trench (2018) |
 | :--------- |:-- | :----------------------: | :-----------: | :---------------: | :-----------: |
-| `Danceability` | Mean | 0.56 | 0.10 | | |
-|  | Standard Deviation | 0.56 | 0.10 | | |
-| `Energy` | Mean | 0.67 | 0.18 | | |
-|  | Standard Deviation | 0.56 | 0.10 | | |
-| `Loudness` | Mean | -6.11 | 2.17 | | |
-|  | Standard Deviation | 0.56 | 0.10 | | |
-| `Instrumentalness` | Mean | 0.02 | 0.10 | | |
-|  | Standard Deviation | 0.56 | 0.10 | | |
-| `Valence` | Mean | 0.52 | 0.19 | | |
-|  | Standard Deviation | 0.56 | 0.10 | | |
-| `Tempo` | Mean | 119 | 28.1 | | |
-|  | Standard Deviation | 0.56 | 0.10 | | |
+| `Danceability` | Mean | 0.57 | 0.68 | 0.64 | 0.67 |
+|  | Standard Deviation | 0.15 | 0.12 | 0.09 | 0.08 |
+| `Energy` | Mean | 0.54 | 0.62 | 0.73 | 0.62 |
+|  | Standard Deviation | 0.21 | 0.24 | 0.12 | 0.14 |
+| `Loudness` | Mean | -7.78 | -6.35 | -5.59 | -7.57 |
+|  | Standard Deviation | 2.11 | 2.86 | 0.95 | 1.61 |
+| `Liveness` | Mean | 0.15 | 0.14 | 0.16 | 0.19 |
+|  | Standard Deviation | 0.08 | 0.06 | 0.12 | 0.12 |
+| `Valence` | Mean | 0.31 | 0.56 | 0.54 | 0.44 |
+|  | Standard Deviation | 0.17 | 0.20 | 0.17 | 0.18 |
+| `Tempo` | Mean | 123 | 126 | 122 | 115 |
+|  | Standard Deviation | 23.5 | 24.9 | 28.0 | 23.6 |
 
 ![valence   track](https://user-images.githubusercontent.com/60647028/74744604-d4484480-5262-11ea-8ba8-422e12a79706.png)
 
