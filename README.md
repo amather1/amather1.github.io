@@ -33,8 +33,10 @@ Upon first glance, it seems as though the band has created fairly consistent con
 #### **Is there a pattern to the structure of Twenty One Pilots' albums?**
 Through a comparative analysis of the four albums, I plan to study the potential method by which the band pieces together their albums. Since Twenty One Pilots has been known to make concept albums with distinct storylines, I am interested to know if they tend to use a similar pattern of song styles/vibes between their albums in order to emulate the arc of a storyline.
 
+As an an intial analysis, I felt it most revealing to track the changes *energy* and *tempo* between each track for each of the four albums, hoping to establish a kind of pattern of ballad-type and high energy songs. *The corresponding graphs are shown below*
+
+![energy line](https://user-images.githubusercontent.com/60647028/74754427-df56a100-5271-11ea-9125-8f06fbd304ab.png)
 
 
-![valence   track](https://user-images.githubusercontent.com/60647028/74744604-d4484480-5262-11ea-8ba8-422e12a79706.png)
 
 Using this data as a baseline, I plan to analyze and compare the data from each separate artist (to each other as well as the overall averages) and discover which aspects of these seemingly *very* different artists' music lend themselves to be grouped into together in a single genre.
