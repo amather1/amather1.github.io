@@ -37,6 +37,24 @@ As an an intial analysis, I felt it most revealing to track the changes *energy*
 
 ![energy line](https://user-images.githubusercontent.com/60647028/74754427-df56a100-5271-11ea-9125-8f06fbd304ab.png)
 
+![tempo line](https://user-images.githubusercontent.com/60647028/74755037-d1ede680-5272-11ea-86e0-d22d93645e57.png)
 
+Though there is certainly deviation, it appears as though there may exist a pattern of change between tracks for both energy and tempo that is present in each of the different albums. Based on the general pattern of peaks and divots in the graphs the pattern is as follows (with :arrow_up: showing an increase, :arrow_down: showing a decrease, and :arrow_up_down: showing no clear pattern)
 
-Using this data as a baseline, I plan to analyze and compare the data from each separate artist (to each other as well as the overall averages) and discover which aspects of these seemingly *very* different artists' music lend themselves to be grouped into together in a single genre.
+| Between Track #'s... | Energy | Tempo |
+| :------------------- | :----: | :---: |
+| 1 and 2 | :arrow_up: | :arrow_down: |
+| 2 and 3 | :arrow_down: | :arrow_down: |
+| 3 and 4 | :arrow_up: | :arrow_up: |
+| 4 and 5 | :arrow_down: | :arrow_up_down: |
+| 5 and 6 | :arrow_up_down: | :arrow_up: |
+| 6 and 7 | :arrow_up_down: | :arrow_up_down: |
+| 7 and 8 | :arrow_down: | :arrow_down: |
+| 8 and 9 | :arrow_up: | :arrow_up: |
+| 9 and 10 | :arrow_up: | :arrow_up_down: |
+| 10 and 11 | :arrow_down: | :arrow_up_down: |
+| 11 and 12 | :arrow_down: | :arrow_down: |
+| 12 and 13 | :arrow_down: | :arrow_down: |
+| 13 and 14 | :arrow_down: | :arrow_up: |
+
+In regards to any deviation or unclear pattern - I would like to note that one of the albums, Vessel, has fewer songs than the others and therefore may exhibit the same general arc but have missing sections in the middle. I plan to review this possibility in further analyses. 
