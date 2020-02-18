@@ -26,4 +26,6 @@ This primary analysis suggests that the Indie Pop genre consists of moderatly "d
 | `Valence` | 0.52 | 0.19 |
 | `Tempo` | 119 | 28.1 |
 
+![valence   track](https://user-images.githubusercontent.com/60647028/74744604-d4484480-5262-11ea-8ba8-422e12a79706.png)
+
 Using this data as a baseline, I plan to analyze and compare the data from each separate artist (to each other as well as the overall averages) and discover which aspects of these seemingly *very* different artists' music lend themselves to be grouped into together in a single genre.
